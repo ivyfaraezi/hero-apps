@@ -1,0 +1,494 @@
+[
+  {
+    "image": "https://i.ibb.co.com/S4xn3gTQ/Spotify-Icon-Logo-wine.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1,
+    "description": "Stream millions of songs and podcasts on your device.",
+    "size": 45,
+    "reviews": 10500000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 7200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MxCsS7Py/Instagram-Logo-wine.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Share your moments, follow friends, and explore the world through photos and videos.",
+    "size": 70,
+    "reviews": 150000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 8000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 80000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wNTyjSRn/Tik-Tok-Logomark-Wordmark-Vertical-Logo-wine.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 3,
+    "description": "Watch, create, and share short videos with millions of users worldwide.",
+    "size": 120,
+    "reviews": 120000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/C3Z70tyK/vecteezy-netflix-mobile-application-logo-17396814.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 4,
+    "description": "Stream movies, series, and exclusive originals anytime, anywhere.",
+    "size": 80,
+    "reviews": 25000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cKJfgwty/snapchat-square-color-icon.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 5,
+    "description": "Share moments instantly with friends and enjoy fun AR filters.",
+    "size": 65,
+    "reviews": 30000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 11500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whQBGCfs/You-Tube-Icon-Full-Color-Logo-wine.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Watch videos, music, and livestreams from creators around the world.",
+    "size": 90,
+    "reviews": 180000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 7000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 130000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jk9Nbktp/Telegram-software-Logo-wine.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "A secure and fast messaging app with cloud-based storage.",
+    "size": 50,
+    "reviews": 12000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/S7VSt558/Whats-App-Logo-wine.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 8,
+    "description": "Send messages, make calls, and share media instantly.",
+    "size": 40,
+    "reviews": 180000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 140000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Mb5bVt9/Twitter-Logo-wine.png",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 9,
+    "description": "Follow trends, share thoughts, and engage in real-time discussions.",
+    "size": 55,
+    "reviews": 90000000,
+    "ratingAvg": 4.0,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000000 },
+      { "name": "2 star", "count": 8000000 },
+      { "name": "3 star", "count": 12000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 35000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/twH6tDnM/Google-Maps-Icon-Logo-wine.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "Navigate, explore, and find places with live traffic updates.",
+    "size": 95,
+    "reviews": 17000000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 13000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1f4vSmkT/vecteezy-amazon-shopping-transparent-icon-50816837.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 11,
+    "description": "Shop online for millions of products and get fast delivery.",
+    "size": 80,
+    "reviews": 23000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/F9t8cNG/vecteezy-zoom-logo-in-blue-colors-meetings-app-logotype-illustration-12871376.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 12,
+    "description": "Video conferencing and messaging for teams and meetings.",
+    "size": 60,
+    "reviews": 12000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 7800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/TD02GBb3/Discord-software-Logo-Color-Logo-wine.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 13,
+    "description": "Chat, voice, and community app for gamers and creators.",
+    "size": 90,
+    "reviews": 14000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/60H93YL2/62b30fc8b223544c209f5e57.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "id": 14,
+    "description": "Learn new languages through fun, bite-sized lessons.",
+    "size": 55,
+    "reviews": 15000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/YBRcDjXn/canva-icon.png",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 15,
+    "description": "Design social posts, logos, presentations, and more.",
+    "size": 85,
+    "reviews": 12000000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 8500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dvsszpt/Microsoft-Teams-Logo-wine.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 16,
+    "description": "Collaborate with teams, chat, and video call in one place.",
+    "size": 100,
+    "reviews": 7000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 3100000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wFZBxZMr/Chat-GPT-Logo-wine.png",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "id": 17,
+    "description": "Chat with the world’s most advanced AI assistant, powered by GPT-5 technology.",
+    "size": 65,
+    "reviews": 8000000,
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 5900000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LXCLJRLZ/Linked-In-Icon-Logo-wine.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 18,
+    "description": "Connect with professionals, find jobs, and grow your career.",
+    "size": 75,
+    "reviews": 10000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/QjFP1gWM/Pinterest-Icon-Logo-wine.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 19,
+    "description": "Discover ideas for recipes, fashion, home decor, and inspiration.",
+    "size": 60,
+    "reviews": 11000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 7200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SwtDJNM9/Reddit-Vertical-Color-Logo-wine.png",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 20,
+    "description": "Join communities, discuss topics, and explore trending memes and news.",
+    "size": 85,
+    "reviews": 9000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 4200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/RkY3sdmv/google-photos-icon.png0",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 21,
+    "description": "Store, organize, and share your photos securely in the cloud.",
+    "size": 100,
+    "reviews": 25000000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 15000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6J0NJ0tF/Symbol.png",
+    "title": "PayPal",
+    "companyName": "PayPal Mobile",
+    "id": 22,
+    "description": "Send, receive, and manage money securely anywhere in the world.",
+    "size": 55,
+    "reviews": 8000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 4500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qFc6dXYQ/idga-Nr1-Ms-1759936689552.jpg",
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "id": 23,
+    "description": "Book rides, order food, and move around your city with ease.",
+    "size": 95,
+    "reviews": 25000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jvGMPyVd/Google-Drive-Logo-wine.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 24,
+    "description": "Store, access, and share your files from anywhere.",
+    "size": 85,
+    "reviews": 30000000,
+    "ratingAvg": 4.6,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 21000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xtwFky9T/adobe-lightroom-icon.png",
+    "title": "Adobe Lightroom",
+    "companyName": "Adobe",
+    "id": 25,
+    "description": "Edit, enhance, and share your photos like a pro.",
+    "size": 120,
+    "reviews": 6000000,
+    "ratingAvg": 4.7,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/20vzPW25/idrc3-Nped-E-logos.jpg",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 26,
+    "description": "Identify any song in seconds with a single tap.",
+    "size": 45,
+    "reviews": 9000000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 7400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/r2GxBj99/minecraft-icon.png",
+    "title": "Minecraft",
+    "companyName": "Mojang",
+    "id": 27,
+    "description": "Create and explore your own worlds with limitless imagination.",
+    "size": 150,
+    "reviews": 30000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  }
+]
+
+
+
+
+
+
