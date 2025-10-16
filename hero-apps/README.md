@@ -179,7 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**tuRjoX** - [GitHub Profile](https://github.com/tuRjoX)
+**ivyfaraezi** - [GitHub Profile](https://github.com/ivyfaraezi)
 
 ## 🙏 Acknowledgments
 
